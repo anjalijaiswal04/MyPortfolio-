@@ -134,10 +134,6 @@ Contact form with email and social profiles.
 Minimal and clean.
 
 📧 Contact
-
-Name: Anjali Jaiswal
-Email: anjalijaiswal82479@gmail.com
-
 GitHub: https://github.com/anjalijaiswal04
 
 LinkedIn: https://www.linkedin.com/in/anjali-jaiswal-6ab98925a
